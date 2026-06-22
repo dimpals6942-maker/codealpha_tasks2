@@ -1,9 +1,9 @@
-# Hangman Game
+-- Hangman Game
 Internship Project — Python Fundamentals
 
 ---
 
-## What is this?
+-- What is this?
 
 This is a simple Hangman game that runs in the terminal. You get a random mystery word and have to guess it one letter at a time. Get more than 6 letters wrong and the man gets hanged — game over. Guess it correctly and you win!
 
@@ -11,7 +11,7 @@ I built this as part of my Python internship to practice the basics like functio
 
 ---
 
-## How to run it
+-- How to run it
 
 Make sure you have Python installed, then just run:
 
@@ -23,7 +23,7 @@ No need to install anything extra. It uses only Python's built-in standard libra
 
 ---
 
-## How to play
+-- How to play
 
 - The game picks a random word and shows you blanks like `_ _ _ _ _ _`
 - Type one letter and press Enter
@@ -34,7 +34,7 @@ No need to install anything extra. It uses only Python's built-in standard libra
 
 ---
 
-## Words in the game
+-- Words in the game
 
 There are 5 words the game can pick from:
 
@@ -42,7 +42,7 @@ There are 5 words the game can pick from:
 
 ---
 
-## What the game looks like
+-- What the game looks like
 
 ```
   +---+
@@ -63,7 +63,7 @@ There are 5 words the game can pick from:
 
 ---
 
-## Python concepts used in this project
+-- Python concepts used in this project
 
 - **if-elif** — used to check if the guess is correct, wrong, or already tried
 - **functions** — the code is split into small functions like `choose_word()`, `display_word()`, `get_valid_input()`, etc.
@@ -75,7 +75,7 @@ There are 5 words the game can pick from:
 
 ---
 
-## Project files
+-- Project files
 
 ```
 hangman_project/
@@ -85,11 +85,9 @@ hangman_project/
 
 ---
 
-## Requirements
+-- Requirements
 
 - Python 3.6 or above
 - Nothing else needed
 
 ---
-
-*Made for internship submission — Python Fundamentals*
